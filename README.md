@@ -1,4 +1,4 @@
 # LevelEditor
 A puzzle-making utility.
 
-Created by Respar (RedSilencer), Deus (JBoxman7)
+Created by Respar (RedSilencer) and Deus (JBoxman7)
